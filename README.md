@@ -1,4 +1,8 @@
 ## Hi there 👋
+Currently new to GitHub
+Pronouns:she/her
+
+
 
 <!--
 **AziXiza/AziXiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
