@@ -1,7 +1,6 @@
 ## Hi there 👋
 Currently new to GitHub ;
 
-Pronouns:she/her
 
 
 
